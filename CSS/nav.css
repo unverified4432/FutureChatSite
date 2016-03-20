@@ -1,0 +1,52 @@
+.do
+{
+	background-image:url("techblue.jpg");
+	height: 63.2em;
+	width: 10em;
+	padding-top: .8em;
+	position: absolute;
+}
+
+/*li elements in the nav bar*/
+.list
+{
+	margin-top: 8.1em;
+	list-style: none;
+	height: 1.5em;
+	width: 6em;
+	background-color: black;
+	text-align: center;
+	padding-top: .5em;
+	border-radius: 10px;
+	font-family: Impact;
+	color: darkgray;
+	border: 1px solid black;
+    text-transform: lowercase;
+}
+/*li elements in the nav bar*/
+
+.listconf
+{  
+    margin-top: 8.1em;
+	list-style: none;
+	height: 1.5em;
+	width: 6em;
+	background-color: black;
+	text-align: center;
+	padding-top: .5em;
+	border-radius: 10px;
+	font-family: Impact;
+	color: darkgray;
+	border: 1px solid black;
+	opacity: .5;
+    text-transform: lowercase;
+}
+
+.links
+{
+	height:1em;
+	width:2em;
+	text-decoration: none;
+	color: darkgray;
+	font-family: Arial;
+}

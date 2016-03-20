@@ -1,0 +1,135 @@
+body
+{
+	background-color: black;
+    height: 80em;
+    width: 80em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*beginning of first container*/
+.container
+{
+	height: 75em;
+	width: 75em;
+	background-image:url("redtech.png");
+	background-position: center bottom 16%;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: no-repeat;
+}
+/*end of the main container*/
+
+
+.container2
+{
+	width:75em;
+	height:9.4em;
+}
+.header
+{
+	margin-left:auto;
+	margin-right: auto;
+	height: 9.4em;
+	width: 75em;
+	background-image: url("techgreen.jpg");
+	background-repeat: no-repeat;
+	margin-top: -1em;
+}
+
+.innerhed
+{
+	font-size: 2em;
+	font-family: Times;
+	width: 6em;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1em;
+	position: absolute;
+	right: 43%;
+    color: white;
+}
+/*This is for the beginning of the description games*/
+.wrw
+{
+	height: 10em;
+	width: 40em;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
+.wrw222
+{
+    height: 10em;
+    width: 30em;
+    font-size: 1.5em;
+    font-family: Impact;
+    color: #3c7413;
+    padding-top: 2.5em;
+    position:absolute;
+}
+.wrw222-hidden
+{
+    height: 10em;
+    width:30em;
+    font-size: 1.5em;
+    font-family: Impact;
+    color:#3c7413;
+    padding-top: 2.5em;
+    visibility: hidden;
+    z-index:20;
+    position:absolute;
+}
+.zir
+{
+    height: 15em;
+    width: 45em;
+    padding-top: 4em;
+    margin-top: 3em;
+}
+
+.wrw22
+{
+    height: 65px;
+    width: 200px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    color: #3c7413;
+    z-index:1;
+}
+
+
+.button
+{
+	height: 60px;
+	width: 120px;
+	background-color: black;
+	margin-right: 10em;
+    margin-left: 64em;
+    margin-top: em;
+	border-radius: 1.5em;
+	border: 1px solid white;
+    cursor: crosshair;
+}
+
+.footer
+{
+    height: 2em;
+    width:55em;
+    margin-top: 46.7em;
+    margin-left: 10em;
+    text-align: center;
+    opacity: .5;
+    color:white;
+}
+.innerFooter
+{
+}
+.buttonconf
+{
+	color:white;
+	text-align:center;
+	font-family: Impact;
+}
